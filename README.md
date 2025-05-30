@@ -1,5 +1,8 @@
 #Blinkit Sales Analysis Dashboard
 
+![image](https://github.com/user-attachments/assets/86992d3a-0124-49f8-b08a-aa0c61b20001)
+
+
 This is a comprehensive sales dashboard of Blinkit, designed in PowerBI. Imported raw data (around 10000 rows of data) from .csv file, performed various data cleaning procedures using Power Query editor and analyzed KPIs, using various charts, according to requirements. Created a field comprising of 4 parameters- total and average sales, no.of items and average ratings.
 The visualization uses shades of yellow and green, in sync with Blinkit's brand identity.
 
